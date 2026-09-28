@@ -1,0 +1,6 @@
+{
+  "name": "Dragon 9 Media Pipeline Cockpit",
+  "description": "Systems engineering cockpit, mesh diagnostics, and Super Puff animation pipeline analyzer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
